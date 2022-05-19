@@ -1,0 +1,45 @@
+2022-05-19 10:14:43,127 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-05-19 10:14:43,167 INFO o.a.j.JMeter: Loading user properties from: /Users/i531869/self_workspace/tools/apache-jmeter-5.3/bin/user.properties
+2022-05-19 10:14:43,168 INFO o.a.j.JMeter: Loading system properties from: /Users/i531869/self_workspace/tools/apache-jmeter-5.3/bin/system.properties
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: Version 5.3
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: java.version=1.8.0_221
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: java.vm.name=SAP Java Server VM
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: os.name=Mac OS X
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: os.arch=x86_64
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: os.version=10.16
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: file.encoding=UTF-8
+2022-05-19 10:14:43,170 INFO o.a.j.JMeter: java.awt.headless=null
+2022-05-19 10:14:43,171 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-05-19 10:14:43,171 INFO o.a.j.JMeter: Available Processors =16
+2022-05-19 10:14:43,177 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-05-19 10:14:43,177 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-05-19 10:14:43,178 INFO o.a.j.JMeter: JMeterHome=/Users/i531869/self_workspace/tools/apache-jmeter-5.3
+2022-05-19 10:14:43,178 INFO o.a.j.JMeter: user.dir  =/Users/i531869/self_workspace/jmeter_script
+2022-05-19 10:14:43,178 INFO o.a.j.JMeter: PWD       =/Users/i531869/self_workspace/jmeter_script
+2022-05-19 10:14:43,179 INFO o.a.j.JMeter: IP: 192.168.31.198 Name: C02ZX2CCMD6R FullName: 192.168.31.198
+2022-05-19 10:14:45,539 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-05-19 10:14:48,235 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-05-19 10:15:00,261 INFO o.a.j.s.FileServer: Default base='/Users/i531869/self_workspace/jmeter_script'
+2022-05-19 10:15:00,265 INFO o.a.j.g.a.Load: Loading file: /Users/i531869/self_workspace/jmeter test/estimate.jmx
+2022-05-19 10:15:00,265 INFO o.a.j.s.FileServer: Set new base='/Users/i531869/self_workspace/jmeter test'
+2022-05-19 10:15:00,394 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-05-19 10:15:00,410 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-05-19 10:15:00,411 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-05-19 10:15:00,413 INFO o.a.j.s.SaveService: Loading file: /Users/i531869/self_workspace/jmeter test/estimate.jmx
+2022-05-19 10:15:00,413 WARN o.a.j.g.a.Load: Error reading file. java.io.FileNotFoundException: /Users/i531869/self_workspace/jmeter test/estimate.jmx (No such file or directory)
+2022-05-19 10:15:12,102 INFO o.a.j.g.a.Load: Loading file: /Users/i531869/self_workspace/jmeter_script/estimate.jmx
+2022-05-19 10:15:12,102 INFO o.a.j.s.FileServer: Set new base='/Users/i531869/self_workspace/jmeter_script'
+2022-05-19 10:15:12,102 INFO o.a.j.s.SaveService: Loading file: /Users/i531869/self_workspace/jmeter_script/estimate.jmx
+2022-05-19 10:15:12,132 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-19 10:15:12,133 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-19 10:15:12,133 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-19 10:15:12,133 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-19 10:15:12,133 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-05-19 10:15:12,133 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-05-19 10:15:12,273 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-05-19 10:15:12,274 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-05-19 10:15:12,274 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-05-19 10:15:12,274 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-05-19 10:15:12,415 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2022-05-19 10:15:12,459 INFO o.a.j.s.FileServer: Set new base='/Users/i531869/self_workspace/jmeter_script'
